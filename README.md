@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArunDmax
-- 👀 I’m interested in doing website creaions and deployment
-- 🌱 I’m currently learning advace React
+- 👀 I’m interested in website Designing & deployment
+- 🌱 I’m currently learning advance React
 - 💞️ I’m looking to collaborate on full stack development
 - 📫 How to reach me ...
 
