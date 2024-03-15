@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArunDmax
+- 👋 Hi, I’m @ Peraka Arun
 - 👀 I’m interested in website Designing & deployment
 - 🌱 I’m currently learning advance React
 - 💞️ I’m looking to collaborate on full stack development
