@@ -15,10 +15,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer and Pyth
 
 Here are some of the projects I've been working on:
 
-1. **Personal Portfolio**: Brief description of the project, highlighting its purpose, key features, and technologies used. Include a link to the project repository or deployed application.
-
-
-Feel free to explore my repositories for more projects and contributions!
+1. **Personal Portfolio**:
+   Welcome to my portfolio project built with Next.js! This project showcases my skills, projects, and experiences in a sleek and responsive design.
 
 
 ## 📫 Let's Connect
